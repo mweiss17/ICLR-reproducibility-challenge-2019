@@ -1,0 +1,3 @@
+[submodule "gene-graph-conv"]
+	path = gene-graph-conv
+	url = https://github.com/mila-udem/gene-graph-conv
