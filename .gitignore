@@ -1,0 +1,7 @@
+torrent_timestamps.json
+datastore/*
+conda-rdkit/
+Miniconda3-latest-MacOSX-x86_64.sh
+.ipynb_checkpoints/
+.python-version
+
